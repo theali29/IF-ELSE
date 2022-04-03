@@ -1,3 +1,3 @@
 # Python Projects
-Here you will find all codes of python programming 
-Language and solved questions as well
+Here you will find all my lectures,assignments,quizes codes of Python projects 
+
