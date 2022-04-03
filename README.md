@@ -1,3 +1,3 @@
 # Python Projects
-Here you will find all my lectures,assignments,quizes codes of Python projects 
+Python programming.You can find my Class lectures,Assignments,quizes,practice codes and lots of interesting resources to start learning Pyhton. 
 
